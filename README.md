@@ -97,6 +97,8 @@ Client components for interactive charts
 API route (/api/data) for simulated stream
 Memoized components and batched Canvas draws
 
+[![Deploy with Vercel](https://vercel.com/button)](https://performance-dashboard.vercel.app/)
+
 
  Documentation
 See PERFORMANCE.md for detailed FPS / memory benchmarks and optimization notes.
